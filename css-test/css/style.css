@@ -43,13 +43,13 @@ main {
 }
 
 .relative_title {
-    margin-top: 350px;
+    margin-top: 30%;
     margin-bottom: 0;
 }
 
 .relative_box {
-    width: 70%;
-    height: 100px;
+    width: 70vw;
+    height: 15vh;
     margin-bottom: 10px;
     background-color: rgb(0, 39, 126);
 }
@@ -59,6 +59,8 @@ main {
     display: block;
     right: 0;
     top: 10%;
+    width: 60vw;
+    height: auto;
 }
 
 .absolute_img img {
